@@ -20,22 +20,22 @@ a:hover {
 
 
 #header {
-  padding: 4px;
+  padding: 10px;
 }
 
 #header .big {
-  font-size:   140%;
+  font-size:   240%;
   font-weight: bold;
 }
 
 #header .small {
-  font-size:    90%;
+  font-size:    150%;
   color:        grey;
   padding-left: 15px;
 }
 
 #nav {
-  padding: 6px;
+  padding: 8px;
 }
 
 
