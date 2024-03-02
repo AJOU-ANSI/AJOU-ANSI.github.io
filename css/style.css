@@ -24,12 +24,13 @@ a:hover {
 }
 
 #header .big {
-  font-size:   240%;
+  font-size:   150%;
   font-weight: bold;
+  color: #E34237;
 }
 
 #header .small {
-  font-size:    150%;
+  font-size:    100%;
   color:        grey;
   padding-left: 15px;
 }
@@ -41,7 +42,7 @@ a:hover {
 #nav {
   margin-left: 5%;
   height : 70px; /* nav의 박스크기 */
-  border-bottom: 1px solid black; /* nav박스 밑에 검은 줄 */
+  border-bottom: 1px solid #E34237; /* nav박스 밑에 검은 줄 */
   display: flex; /* 요소들 정렬 */
   align-items: center; /* 박스 안에서 정렬 (상단 중간 하단)*/
   margin-left: 10px;
