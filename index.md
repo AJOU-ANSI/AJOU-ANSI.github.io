@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  Welcome
+title:  안녕하세요, ANSI 입니다.
 ---
 
 # {{ page.title }}
