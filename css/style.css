@@ -4,6 +4,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100..900&display=swap');
 
 
+
 body {
   font-family: 'Noto Sans KR', Helvetica,Arial,sans-serif;
 }
@@ -37,7 +38,8 @@ a:hover {
   padding: 8px;
 } */
 
-.nav {
+#nav {
+  margin-left: 5%;
   height : 70px; /* nav의 박스크기 */
   border-bottom: 1px solid black; /* nav박스 밑에 검은 줄 */
   display: flex; /* 요소들 정렬 */
@@ -45,15 +47,20 @@ a:hover {
   margin-left: 10px;
   margin-right: 10px;
 }
-.nav-items {
+#nav-items {
+  margin-left: 5%;
   display: flex; /* 요소들 정렬 */
   margin-left: auto; /* 왼쪽 여백 */
   margin-right: 10px; /* 오른쪽 여백 */
 }
 
-.nav-item{
+#nav-item{
+  margin-left: 5%;
   margin-left: 10px; /* 왼쪽 여백 */
 }
 
+#content {
+  margin-left: 5%;
+}
 
 
