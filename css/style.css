@@ -35,6 +35,10 @@ a:hover {
   padding-left: 15px;
 }
 
+#heder .logo {
+  margin-left: 5%;
+}
+
 /* #nav {
   padding: 8px;
 } */
