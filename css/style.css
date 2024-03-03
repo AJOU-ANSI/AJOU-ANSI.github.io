@@ -41,10 +41,11 @@ a:hover {
 
 #nav {
   height : 50px; 
-  border-bottom: 40px solid #E34237;
+  border-bottom: 20px solid #E34237;
   display: flex; 
   align-items: center;
   padding : 15px;
+  word-spacing: 30%;
 }
 #nav-items {
   
