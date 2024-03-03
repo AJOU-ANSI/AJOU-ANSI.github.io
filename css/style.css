@@ -9,15 +9,19 @@ body {
   font-family: 'Noto Sans KR', Helvetica,Arial,sans-serif;
 }
 
+a:link {
+  color : black;
+  /* font-weight: bold; */
+}
 a, a:visited {
-  /* color: black; */
+  color: black;
   text-decoration: none;
 }
 
 a:hover {
-  text-decoration: underline;
+  color: #E34237;
+  /* text-decoration: underline; */
 }
-
 
 #header {
   padding: 10px;
@@ -36,7 +40,7 @@ a:hover {
 }
 
 #heder .logo {
-  margin-left: 5%;
+  margin-left: 20%;
 }
 
 /* #nav {
