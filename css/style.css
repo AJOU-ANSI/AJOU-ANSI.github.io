@@ -51,7 +51,7 @@ a:hover {
   display: flex; 
   align-items: center;
   padding-left: 20px;
-  gap: 10px;
+  column-gap: 10px;
 }
 
 #nav-items {
