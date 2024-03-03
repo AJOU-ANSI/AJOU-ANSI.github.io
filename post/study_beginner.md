@@ -2,6 +2,7 @@
 layout: default
 title:  2024년 기초 알고리즘 스터디
 ---
+### {{ page.title }}
 
 - 1주차 : PS를 위한 기초
 
