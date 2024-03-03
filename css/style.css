@@ -3,10 +3,25 @@
  */
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100..900&display=swap');
 
+html {
+  font-size: 10px;
+}
+
+@media screen and (max-width:414px) {
+  html{font-size: 20px;}
+}
+@media screen and (max-width:375px) {
+  html{font-size: 16.7px;}
+}
+@media screen and (max-width:360px) {
+  html{font-size: 12.2px;}
+}
+
 
 
 body {
   font-family: 'Noto Sans KR', Helvetica,Arial,sans-serif;
+  font-size: 1.6rem;
 }
 
 a:link {
@@ -28,13 +43,13 @@ a:hover {
 }
 
 #header .big {
-  font-size:   200%;
+  font-size:   3.2rem;
   font-weight: bold;
   color: #E34237;
 }
 
 #header .small {
-  font-size:    100%;
+  font-size:    1.6rem;
   color:        grey;
   padding-left: 15px;
 }
