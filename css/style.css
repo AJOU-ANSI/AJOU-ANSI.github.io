@@ -40,14 +40,11 @@ a:hover {
 } */
 
 #nav {
-  /* margin-left: 5%; */
-  height : 50px; /* nav의 박스크기 */
-  border-bottom: 40px solid #E34237; /* nav박스 밑에 검은 줄 */
-  display: flex; /* 요소들 정렬 */
-  align-items: center; /* 박스 안에서 정렬 (상단 중간 하단)*/
-  padding : 10px;
-  /* margin-left: 10px;
-  margin-right: 10px; */
+  height : 50px; 
+  border-bottom: 40px solid #E34237;
+  display: flex; 
+  align-items: center;
+  padding : 15px;
 }
 #nav-items {
   
