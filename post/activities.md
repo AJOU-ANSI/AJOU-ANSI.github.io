@@ -9,7 +9,9 @@ title:  소개
 
 2007년부터 꾸준하게 아래의 활동들을 이어오고 있습니다.
 
-### 매 학기 스터디를 열고 있습니다.
+### 알고리즘 문제를 해결합니다.
+
+#### 매 학기 다양한 스터디를 운영하고 있습니다.
 
 - **C언어 스터디**
     
@@ -20,6 +22,16 @@ title:  소개
 - **심화 알고리즘 스터디**
 
     본격적으로 대회를 준비하는 스터디입니다. 고급 자료구조와 알고리즘, 다양한 문제 풀이를 진행합니다.
+
+#### 다양한 프로그래밍 경시대회에 참가해 우수한 성적을 거두고 있습니다.
+
+- [ICPC(International Collegiate Programming Contest)](https://icpc.global/)
+- [SCPC(Samsung Collegiate Programming Cup)](https://research.samsung.com/scpc)
+- [UCPC(전국 대학생 프로그래밍 연합 여름대회)](https://ucpc.me/)
+- [APC(Ajou Programming Contest)](https://shake.codes/apc)
+- [shake!(경인지역 6개 대학 연합 프로그래밍 경시대회)](https://shake.codes/)
+- 외 Meta Hackercup, Google Codejam, Codeforces, AtCoder 등 많은 대회에 참가합니다.
+
 
 ### 알고리즘 문제를 출제합니다.
 - **APC(Ajou Programming Contest)**
