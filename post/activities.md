@@ -1,7 +1,9 @@
 ---
 layout: default
-title:  활동
+title:  소개
 ---
+
+### {{ page.title }}
 
 아주대학교 소프트웨어융합대학 소속 알고리즘 문제해결 소학회 A.N.S.I 입니다.
 

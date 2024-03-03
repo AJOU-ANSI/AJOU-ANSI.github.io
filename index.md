@@ -1,9 +1,9 @@
 ---
 layout: default
-title:  안녕하세요, ANSI 입니다.
+title:  공지사항
 ---
 
-### 공지사항
+### {{ page.title }}
 
 - 2024-03-03
     - 홈페이지가 개설되었습니다.
