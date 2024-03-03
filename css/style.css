@@ -3,17 +3,14 @@
  */
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100..900&display=swap');
 
-html {
-  font-size: 10px;
-}
 
-@media screen and (max-width:414px) {
-  html{font-size: 20px;}
+@media screen and (min-width:1024px) {
+  html{font-size: 10px;}
 }
-@media screen and (max-width:375px) {
+@media screen and (max-width:1023px) {
   html{font-size: 16.7px;}
 }
-@media screen and (max-width:360px) {
+@media screen and (max-width:767px) {
   html{font-size: 12.2px;}
 }
 
@@ -60,8 +57,8 @@ a:hover {
 } */
 
 #nav {
-  margin-left: 20%;
-  margin-right : 20%;
+  margin-left: 10%;
+  margin-right : 10%;
   height : 50px; 
   border-bottom: 5px solid #E34237;
   display: flex; 
@@ -84,8 +81,8 @@ a:hover {
 }
 
 #content {
-  margin-left: 20%;
-  margin-right : 20%;
+  margin-left: 10%;
+  margin-right : 10%;
 }
 
 
