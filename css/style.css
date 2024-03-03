@@ -40,6 +40,7 @@ a:hover {
 } */
 
 #nav {
+  margin-left: 5%;
   height : 50px; 
   border-bottom: 20px solid #E34237;
   display: flex; 
