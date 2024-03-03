@@ -9,7 +9,8 @@ title:  소개
 
 2007년부터 꾸준하게 아래의 활동들을 이어오고 있습니다.
 
-### 알고리즘 문제를 해결합니다.
+
+### <span style="color:#ffffff; background-color:#E34237"> 알고리즘 문제를 해결합니다. </span>
 
 #### 매 학기 다양한 스터디를 운영하고 있습니다.
 
@@ -33,7 +34,7 @@ title:  소개
 - 외 Meta Hackercup, Google Codejam, Codeforces, AtCoder 등 많은 대회에 참가합니다.
 
 
-### 알고리즘 문제를 출제합니다.
+### <span style="color:#ffffff; background-color:#E34237"> 알고리즘 문제를 출제합니다.</span>
 - **APC(Ajou Programming Contest)**
 
     매년 봄 학기 중 아주대학교 프로그래밍 경시대회를 개최하고 있습니다.
