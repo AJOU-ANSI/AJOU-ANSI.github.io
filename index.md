@@ -3,6 +3,7 @@ layout: default
 title:  공지사항
 ---
 
+
 ### {{ page.title }}
 
 - 2024-03-03
@@ -12,7 +13,9 @@ title:  공지사항
         - 소속 : 타과생도 환영합니다!
         - [링크](https://forms.gle/BkGtBTEqLwfmyNWJA)에서 폼 작성 후 입금 확인 시 단체 톡 및 디스코드에 초대됩니다.
 
-            ![poster](./post/files/A4%20-%201.png){: width="50%"}
+<p align="center">
+    <img width="80%" src="./post/files/A4%20-%201.png">
+</p>
 
 <!-- _Add your text here_
 

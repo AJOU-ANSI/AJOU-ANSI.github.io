@@ -6,6 +6,43 @@
  html {
    font-size: 0.6em; /* 모바일 화면에 적절한 폰트 크기 조정 */
  }
+@media screen and (min-width:1024px) {
+  html{font-size: 0.6em;}
+
+  #nav{
+    margin-left: 25%; /* 모바일 화면에 더 가운데 정렬 */
+    margin-right: 25%; /* 모바일 화면에 더 가운데 정렬 */
+  }
+
+  #content {
+    margin-left: 25%; /* 모바일 화면에 더 가운데 정렬 */
+    margin-right: 25%; /* 모바일 화면에 더 가운데 정렬 */
+  }
+}
+@media screen and (max-width:1023px) {
+  html{font-size: 0.65em;}
+  #nav{
+    margin-left: 15%; /* 모바일 화면에 더 가운데 정렬 */
+    margin-right: 15%; /* 모바일 화면에 더 가운데 정렬 */
+  }
+  #content {
+    margin-left: 15%; /* 모바일 화면에 더 가운데 정렬 */
+    margin-right: 15%; /* 모바일 화면에 더 가운데 정렬 */
+  }
+}
+@media screen and (max-width:767px) {
+  html{font-size: 0.7em;}
+  #nav{
+    margin-left: 10%; /* 모바일 화면에 더 가운데 정렬 */
+    margin-right: 10%; /* 모바일 화면에 더 가운데 정렬 */
+  }
+  #content {
+    margin-left: 10%; /* 모바일 화면에 더 가운데 정렬 */
+    margin-right: 10%; /* 모바일 화면에 더 가운데 정렬 */
+  }
+}
+
+
  
  body {
    font-family: 'Noto Sans KR', Helvetica, Arial, sans-serif;
@@ -44,8 +81,7 @@
  }
  
  #nav {
-   margin-left: 25%; /* 모바일 화면에 더 가운데 정렬 */
-   margin-right: 25%; /* 모바일 화면에 더 가운데 정렬 */
+
    height: 3rem;
    border-bottom: 0.15rem solid #E34237;
    column-gap: 3rem;
