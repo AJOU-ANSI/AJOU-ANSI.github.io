@@ -3,11 +3,12 @@
  */
  @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100..900&display=swap');
 
- html {
-   font-size: 0.6em; /* 모바일 화면에 적절한 폰트 크기 조정 */
- }
+ /* html {
+   font-size: 0.6em; 
+ } */
+ 
 @media screen and (min-width:1024px) {
-  html{font-size: 0.6em;}
+  html{font-size: 0.6em;} /* 모바일 화면에 적절한 폰트 크기 조정 */
 
   #nav{
     margin-left: 25%; /* 모바일 화면에 더 가운데 정렬 */
@@ -101,11 +102,11 @@
    margin-left: 1rem;
  }
  
- #content {
-   margin-left: 25%; /* 모바일 화면에 더 가운데 정렬 */
-   margin-right: 25%; /* 모바일 화면에 더 가운데 정렬 */
+ /* #content {
+   margin-left: 25%; 
+   margin-right: 25%; 
  }
- 
+*/
  ul,
  ol {
    line-height: 1.8;
