@@ -6,8 +6,11 @@ title:  공지사항
 ### {{ page.title }}
 
 - 2024-03-18
-  - 재밌는 기초 알고리즘 스터디가 개강하였습니다.
+  - 재밌는 [기초 알고리즘 스터디](/post/study_beginner.md)가 개강하였습니다.
   - 많은 관심 부탁드립니다!
+- 2024-03-14
+  - 화이트데이 대신 ANSI의 개총이 열렸습니다.
+  - [링크](https://drive.google.com/file/d/1djHCGSYjjQiCXHCy1xpQw_v4NDMamKHt/view?usp=sharing)에서 개강총회 진행 자료를 확인할 수 있습니다.
 - 2024-03-03
     - 홈페이지가 재단장 후 다시 운영되기 시작했습니다.
     - 신입 부원 모집을 시작합니다.
