@@ -13,6 +13,7 @@
   #nav{
     margin-left: 25%; /* 모바일 화면에 더 가운데 정렬 */
     margin-right: 25%; /* 모바일 화면에 더 가운데 정렬 */
+    font-size: 2.0rem;
   }
 
   #content {
@@ -25,6 +26,7 @@
   #nav{
     margin-left: 15%; /* 모바일 화면에 더 가운데 정렬 */
     margin-right: 15%; /* 모바일 화면에 더 가운데 정렬 */
+    font-size: 2.3rem;
   }
   #content {
     margin-left: 15%; /* 모바일 화면에 더 가운데 정렬 */
@@ -36,6 +38,7 @@
   #nav{
     margin-left: 10%; /* 모바일 화면에 더 가운데 정렬 */
     margin-right: 10%; /* 모바일 화면에 더 가운데 정렬 */
+    font-size: 2.6rem;
   }
   #content {
     margin-left: 10%; /* 모바일 화면에 더 가운데 정렬 */
@@ -91,7 +94,6 @@
    justify-content: center;
    align-items: center;
    letter-spacing: 0.04em;
-   font-size: 1.8rem;
  }
  
  #nav-items {
