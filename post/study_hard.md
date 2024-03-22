@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  2024년 기초 알고리즘 스터디
+title:  2024년 심화 알고리즘 스터디
 ---
 ### {{ page.title }}
 
@@ -88,6 +88,7 @@ title:  2024년 기초 알고리즘 스터디
   </tr>
 </tbody>
 </table>
+
 
 - 1주차 : OT
 - 3주차
