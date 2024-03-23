@@ -13,7 +13,7 @@ title:  2024년 심화 알고리즘 스터디
     - 난이도 : 골드(2문항) ~ 플래티넘(3문항)
 
 <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
+.tg  {border-collapse:collapse;border-spacing:0;margin:auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -91,7 +91,7 @@ title:  2024년 심화 알고리즘 스터디
 
 
 - 1주차 : OT
+- 2주차
 - 3주차
-- 4주차
 
 
