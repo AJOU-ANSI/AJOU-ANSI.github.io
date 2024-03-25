@@ -13,7 +13,7 @@ title:  2024년 기초 알고리즘 스터디
 
     소수 판별, 소인수 분해, 최대 공약수, 기초 정수론 및 조합론
 
-    <!-- [강의 자료](/post/files/2024_Algo_Beginner_W2.pdf) -->
+    [강의 자료](https://drive.google.com/file/d/1byZIba5p1lSLdP3pfGKNJu2frqQ8A4M1/view?usp=sharing)
 - 3주차
 - 4주차
 
