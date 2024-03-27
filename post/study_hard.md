@@ -11,9 +11,11 @@ title:  2024년 심화 알고리즘 스터디
 - 올림피아드류(KOI, USACO, COCI, JOI), ICPC에서 매주 5문항 
     - 100명 이상 푼 문항
     - 난이도 : 골드(2문항) ~ 플래티넘(3문항)
-
+    - Query
+      - ``*g5..g1 s#100.. (/icpc | /olympiad)``
+      - ``*p5..p1 s#100.. (/icpc | /olympiad)``
 <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:auto;}
+.tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -91,7 +93,7 @@ title:  2024년 심화 알고리즘 스터디
 
 
 - 1주차 : OT
-- 2주차
 - 3주차
+- 4주차
 
 
