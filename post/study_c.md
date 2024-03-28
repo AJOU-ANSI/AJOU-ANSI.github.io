@@ -16,7 +16,11 @@ title:  2024년 C언어 스터디
   연산자, 형변환, 문제풀이
 
   [강의 자료](https://drive.google.com/file/d/1QVrcnHoxdvuctfAJPGermIQXzQ0OW4dd/view?usp=sharing)
-- 3주차
+- 3주차 : 연산자와 조건문
+
+  2주차 리뷰, 연산자, 조건문
+
+  [강의 자료](https://drive.google.com/file/d/1YzqYTyOVN7PrN7tzqx1Zpqw8WiLSDQkd/view?usp=share_link)
 - 4주차
 
 
