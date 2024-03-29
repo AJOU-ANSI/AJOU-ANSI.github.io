@@ -10,6 +10,10 @@ subtitle: '아주대학교 알고리즘 문제해결 동아리'
 
 markdown: kramdown
 
+url: "https://ansi.ajou.club"
+plugins:
+  - jekyll-sitemap
+
 exclude:
 - README.md
 - LICENSE.md
