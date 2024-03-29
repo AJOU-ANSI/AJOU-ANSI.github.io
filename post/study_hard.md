@@ -93,6 +93,11 @@ title:  2024년 심화 알고리즘 스터디
 
 
 - 1주차 : OT
+
+  - [문제 풀이](https://drive.google.com/file/d/1rP9sdG7e0wDLMqCXYCOyiWXkqzsbgaJG/view?usp=sharing)
+- 2주차 : Sparse table, Lowest Common Ancestor
+
+  - [문제 풀이](https://drive.google.com/file/d/1e7P2FOBgbQdnKmkeS2DW3RSnEO1I0voz/view?usp=sharing)
 - 3주차
 - 4주차
 
