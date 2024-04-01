@@ -16,15 +16,16 @@ title:  2024년 C언어 스터디
   연산자, 형변환, 문제풀이
 
   [강의 자료](https://drive.google.com/file/d/1QVrcnHoxdvuctfAJPGermIQXzQ0OW4dd/view?usp=sharing)
-- 2-1주차 : 연산자와 조건문
+- 2-1주차 : 연산자와 조건문 / 반복문
 
   1-2주차 리뷰, 연산자, 조건문
 
-  [강의 자료](https://drive.google.com/file/d/1YzqYTyOVN7PrN7tzqx1Zpqw8WiLSDQkd/view?usp=share_link)
-- 2-2주차 : 반복문
-
   while, for
 
-  [강의 자료](https://drive.google.com/file/d/1GZZefx2TXa9lXEr_3_8F1icDRWl8W_68/view?usp=sharing)
+  [강의 자료 1](https://drive.google.com/file/d/1YzqYTyOVN7PrN7tzqx1Zpqw8WiLSDQkd/view?usp=share_link) / [강의 자료 2](https://drive.google.com/file/d/1GZZefx2TXa9lXEr_3_8F1icDRWl8W_68/view?usp=sharing)
 
+- 2-2주차 : 배열과 포인터
 
+  배열, 포인터
+
+  [강의 자료](#)
