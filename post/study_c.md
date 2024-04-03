@@ -22,10 +22,10 @@ title:  2024년 C언어 스터디
 
   while, for
 
-  [강의 자료 1](https://drive.google.com/file/d/1YzqYTyOVN7PrN7tzqx1Zpqw8WiLSDQkd/view?usp=share_link) / [강의 자료 2](https://drive.google.com/file/d/1GZZefx2TXa9lXEr_3_8F1icDRWl8W_68/view?usp=sharing)
+  [강의 자료 1](https://drive.google.com/file/d/1YzqYTyOVN7PrN7tzqx1Zpqw8WiLSDQkd/view?usp=sharing) / [강의 자료 2](https://drive.google.com/file/d/1GZZefx2TXa9lXEr_3_8F1icDRWl8W_68/view?usp=sharing)
 
 - 2-2주차 : 배열과 포인터
 
   배열, 포인터
 
-  [강의 자료](#)
+  [강의 자료](https://drive.google.com/file/d/1Ym1vDpsq2VeWI_FPUuOyU-EfPp8tMXmy/view?usp=sharing)
