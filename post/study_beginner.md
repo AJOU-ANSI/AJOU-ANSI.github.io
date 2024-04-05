@@ -14,7 +14,11 @@ title:  2024년 기초 알고리즘 스터디
     소수 판별, 소인수 분해, 최대 공약수, 기초 정수론 및 조합론
 
     [강의 자료](https://drive.google.com/file/d/1byZIba5p1lSLdP3pfGKNJu2frqQ8A4M1/view?usp=sharing)
-- 3주차
+- 3주차 : 완전탐색과 백트래킹
+
+    완전 탐색(Bruteforcing), 재귀(Recursion), 백트래킹(Backtracking)
+
+    [강의 자료](https://drive.google.com/file/d/1L4MPGq1jhgPyMGlm-TYEHetOLWbvG7p2/view?usp=sharing)
 - 4주차
 
 
