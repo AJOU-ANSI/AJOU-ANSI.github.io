@@ -29,3 +29,21 @@ title:  2024년 C언어 스터디
   배열, 포인터
 
   [강의 자료](https://drive.google.com/file/d/1Ym1vDpsq2VeWI_FPUuOyU-EfPp8tMXmy/view?usp=sharing)
+
+- 3-1주차 : 이차원 배열
+
+  2차열 배열과 행, 행렬의 연산
+
+  [강의 자료](https://drive.google.com/file/d/1FFATTaWvRLhNVnSzvTMuVwX3d-kvHnB4/view?usp=sharing)
+
+- 3-2주차 : 함수
+
+  함수 정의, 함수의 사용법
+
+  [강의 자료](https://drive.google.com/file/d/1PH6GCS6i0u5qIT0g_ytNFsAJZ2L56DWZ/view?usp=sharing)
+
+- 4-1주차 : 재귀함수
+
+  재귀함수 정의, 문제풀이
+
+  [강의 자료](https://drive.google.com/file/d/13ILy4ubpz7Yo2uydXNTM0gRaskcL6ZRB/view?usp=sharing)
