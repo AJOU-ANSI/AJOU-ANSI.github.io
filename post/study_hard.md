@@ -99,7 +99,8 @@ title:  2024년 심화 알고리즘 스터디
 
   - [랜덤 문제 풀이](https://drive.google.com/file/d/1e7P2FOBgbQdnKmkeS2DW3RSnEO1I0voz/view?usp=sharing)
 - 3주차 : 게임 이론
-
+  - [랜덤 문제 풀이](https://drive.google.com/file/d/1iL3Eflgvqi9SkxWZurR6aLdD_cXJaz7l/view?usp=drive_link)
+  
   - [강의 자료](https://drive.google.com/file/d/1N5CH3qdpHBHEPUaRwLK0TJjBHGlzKLjR/view?usp=sharing)    
 - 4주차
 
