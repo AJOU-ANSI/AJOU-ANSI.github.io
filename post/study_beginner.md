@@ -19,6 +19,8 @@ title:  2024년 기초 알고리즘 스터디
     완전 탐색(Bruteforcing), 재귀(Recursion), 백트래킹(Backtracking)
 
     [강의 자료](https://drive.google.com/file/d/1L4MPGq1jhgPyMGlm-TYEHetOLWbvG7p2/view?usp=sharing)
-- 4주차
+- 4주차 : 기초 자료구조
 
+    자료구조, 스택(Stack), 큐(Queue), 덱(deque), 집합과 맵(Set, Map)
 
+    [강의 자료](https://drive.google.com/file/d/1R5Bfkg9lkt2EXaJ5xG8NUcFe2JOTKk7i/view?usp=sharing)
