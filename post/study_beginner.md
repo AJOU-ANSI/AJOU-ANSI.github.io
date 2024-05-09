@@ -24,3 +24,8 @@ title:  2024년 기초 알고리즘 스터디
     자료구조, 스택(Stack), 큐(Queue), 덱(deque), 집합과 맵(Set, Map)
 
     [강의 자료](https://drive.google.com/file/d/1R5Bfkg9lkt2EXaJ5xG8NUcFe2JOTKk7i/view?usp=sharing)
+- 5주차 : 그래프
+
+    그래프의 종류, 그래프의 표현 방법, DFS, BFS, 트리
+
+    [강의 자료1](https://drive.google.com/file/d/1CarJeucluQah5Eg4O-qm7zFODPCH18S3/view?usp=sharing), [강의 자료2](https://drive.google.com/file/d/18Ik8FzRAbmFzUN5kRlKeURfBRYQeifxb/view?usp=sharing)
