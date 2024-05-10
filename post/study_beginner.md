@@ -28,4 +28,4 @@ title:  2024년 기초 알고리즘 스터디
 
     그래프의 종류, 그래프의 표현 방법, DFS, BFS, 트리
 
-    [강의 자료1](https://drive.google.com/file/d/1CarJeucluQah5Eg4O-qm7zFODPCH18S3/view?usp=sharing), [강의 자료2](https://drive.google.com/file/d/18Ik8FzRAbmFzUN5kRlKeURfBRYQeifxb/view?usp=sharing)
+    [강의 자료1](https://drive.google.com/file/d/1C7E7FFc-EOwVBWvn-3GzihbRHbz7gjTb/view?usp=sharing
