@@ -47,3 +47,15 @@ title:  2024년 C언어 스터디
   재귀함수 정의, 문제풀이
 
   [강의 자료](https://drive.google.com/file/d/13ILy4ubpz7Yo2uydXNTM0gRaskcL6ZRB/view?usp=sharing)
+
+- 5주차 : 문자열
+
+  아스키 코드, 문자열, 문제풀이
+
+  [강의 자료 1](https://drive.google.com/file/d/1TwDKP_CZx14c62HXpWFPxXH2O42Z0XXf/view?usp=sharing) / [강의 자료 2](https://drive.google.com/file/d/1c-el11j1DQGj1m_Fbgg0u29wu_yVoXXG/view?usp=sharing)
+
+- 6주차 : 시간복잡도, 정렬
+
+  점근 표기법, 시간복잡도, 정렬 알고리즘, STL sort, 문제풀이
+
+  [강의 자료](https://drive.google.com/file/d/1I7WpzerZSltAT8PIOOxJmFADSTIY_QaY/view?usp=sharing)
