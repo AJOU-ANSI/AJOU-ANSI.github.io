@@ -105,7 +105,7 @@ title:  2024년 심화 알고리즘 스터디
 - 4주차
   - [랜덤 문제 풀이](https://drive.google.com/file/d/13BfR44buVChe0m9u_e81DlCI46H_3jXy/view?usp=drive_link)
 - 5주차
-
+  - [랜덤 문제 풀이](https://drive.google.com/file/d/1ZE5_Nn9Y0ycIyRiwnWnYf9S4gnC66aSP/view?usp=sharing)
 - 6주차 : DP Optimization - CHT, DnC
 
   - [강의 자료](https://drive.google.com/file/d/1ssa6jbJZxPwpWYt79yfoMziai23xYzUm/view?usp=sharing)
