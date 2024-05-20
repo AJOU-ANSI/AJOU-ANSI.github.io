@@ -29,3 +29,13 @@ title:  2024년 기초 알고리즘 스터디
     그래프의 종류, 그래프의 표현 방법, DFS, BFS, 트리
 
     [강의 자료](https://drive.google.com/file/d/1C7E7FFc-EOwVBWvn-3GzihbRHbz7gjTb/view?usp=sharing)
+- 6주차 : DP
+
+    동적 계획법, 중복 부분 문제, 최적 부분 구조
+
+    [강의 자료](https://drive.google.com/file/d/1kc-VAnqCJhF1ISZwqpMORdu8aLIauBsJ/view?usp=sharing)
+- 7주차 : 그리디, 애드혹
+
+    그리디, 최적 부분 구조, 그리디의 증명, 애드혹
+
+    [강의 자료1](https://drive.google.com/file/d/1Ax-CMALk4VicpOTqD51l78PYtK3_hNjz/view?usp=sharing)    [강의 자료2](https://drive.google.com/file/d/1HjCRpsoG_oKV2M44KkN3WyuPgBKUadub/view?usp=sharing)
