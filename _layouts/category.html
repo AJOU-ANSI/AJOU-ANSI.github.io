@@ -9,14 +9,12 @@
   <div id="content">
     {% for page in site.pages %}
       {% if page.author %}
-      <h3>
-        <li>
-          <a href="{{ site.baseurl }}{{ page.url }}">
-            {{ page.title }}
-          </a>
-          <small> - by {{page.author}}</small>
-        </li>
-        </h3>
+      <div style="font-size: 120%">
+        <a href="{{ site.baseurl }}{{ page.url }}">
+          {{ page.title }}
+        </a>
+      <small> {{page.date}} - by {{page.author}}</small>
+      </div>
       {% endif %}
     {% endfor %}
   </div>

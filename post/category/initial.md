@@ -2,6 +2,7 @@
 layout: category
 title: 이제 글을 올릴 수 있습니다!
 author: 김유겸
+date: "2024.06.12"
 ---
 
 ### {{ page.title }}
