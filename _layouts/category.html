@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+
+<html>
+  {% include default.html %}
+  <body>
+
+  <div id="nav"> 글 목록 </div>
+  
+  <div id="content">
+    {% for page in site.pages %}
+      {% if page.author %}
+      <h3>
+        <li>
+          <a href="{{ site.baseurl }}{{ page.url }}">
+            {{ page.title }}
+          </a>
+          <small> - by {{page.author}}</small>
+        </li>
+        </h3>
+      {% endif %}
+    {% endfor %}
+  </div>
+
+</body>
+
+</html>
+
+
+

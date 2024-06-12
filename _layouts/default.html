@@ -1,46 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <meta charset="utf-8">
-  <title>{{ page.title }} - {{ site.title }}</title>
-  <link rel="stylesheet" href="{{ 'css/style.css' | relative_url }}">
-</head>
-<body>
-
-
-<div id="header">
-  <!-- <span class='big'>{{ site.title }}</span> -->
-  <a href="{{ 'index.html' | relative_url }}">
-    <img src="/post/files/ANSI Logo.png" style="width : 12rem; margin-left: auto; margin-right: auto; display: block;">
-  </a>
-  <span class='small'>{{ site.subtitle }}</span>
-</div>
-
-<div id="nav">
-  <!-- <div id="nav-items"> -->
-    
-    <a href="{{ 'index.html' | relative_url }}">공지  </a>
-  
-    <a href="{{ 'post/activities.html' | relative_url }}">소개  </a>
-
-    <!-- <a href="{{ 'post/result.html' | relative_url }}">기록  </a> -->
-
-    <a href="{{ 'post/study.html'   | relative_url }}">스터디  </a>
-
-    <a href="https://shake.codes/apc">APC  </a>
-
-    <a href="https://shake.codes/">shake!  </a>
-
-    <a href="https://www.acmicpc.net/group/20215">BOJ그룹</a>
-  <!-- </div> -->
-  <!-- <a href="http://groups.google.com/group/wwwmake">Questions? Comments?</a> • -->
-  <!-- <a href="https://github.com/henrythemes/jekyll-starter-theme">About</a> -->
-</div>
-
-<div id="content">
-  {{ content }}
-</div>
-
-</body>
+  {% include default.html %}
 </html>
 
