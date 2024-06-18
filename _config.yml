@@ -9,6 +9,10 @@ subtitle: '아주대학교 알고리즘 문제해결 동아리'
 # more settings
 
 markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
 
 url: "https://ansi.ajou.club"
 plugins:
