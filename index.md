@@ -5,6 +5,9 @@ title:  공지사항
 
 
 ### {{ page.title }}
+- 2024-06-21
+  - 1학기 ANSI의 종강총회가 열렸습니다.
+  - [링크](https://drive.google.com/file/d/1ms3qBbUgoQnJBK2eFxt5Ow3H_RmrbETj/view?usp=sharing)에서 종강총회 진행 자료를 확인할 수 있습니다.
 - 2024-06-04
   - 1학기의 공식적인 스터디가 모두 종강하였습니다.
 - 2024-05-25
