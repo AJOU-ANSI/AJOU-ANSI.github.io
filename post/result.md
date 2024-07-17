@@ -17,6 +17,10 @@ title:  기록
     - 코드뽑스
 - 2023
   - ICPC
+    - KIMCHI_FRIDGE, 본선 34등
   - SCPC
+    - 장민우, 5등상
   - UCPC
+    - KIM_JANG_KIMCHI, 예선 63등
   - shake!
+    - 송선우, 4등
