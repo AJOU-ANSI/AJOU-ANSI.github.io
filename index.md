@@ -5,6 +5,15 @@ title:  공지사항
 
 
 ### {{ page.title }}
+
+- 2024-08-07
+  - ANSI의 2학기 회원 모집을 시작하였습니다.
+  - [링크](https://forms.gle/eDLuKhkbTKCNTrU77)에서 설문 작성하시면 됩니다.
+    - 회비 : 학기 당 10,000원
+    - 문의 : 회장 김유겸 / 010-7163-2970 / dbrua1222@ajou.ac.kr
+  <p align="center">
+    <img width="80%" src="./post/files/24-2.png">
+  </p>
 - 2024-06-21
   - 1학기 ANSI의 종강총회가 열렸습니다.
   - [링크](https://drive.google.com/file/d/1ms3qBbUgoQnJBK2eFxt5Ow3H_RmrbETj/view?usp=sharing)에서 종강총회 진행 자료를 확인할 수 있습니다.
