@@ -11,14 +11,14 @@
   html{font-size: 0.6em;} /* 모바일 화면에 적절한 폰트 크기 조정 */
 
   #nav{
-    margin-left: 25%; /* 모바일 화면에 더 가운데 정렬 */
-    margin-right: 25%; /* 모바일 화면에 더 가운데 정렬 */
+    margin-left: 20%; /* 모바일 화면에 더 가운데 정렬 */
+    margin-right: 20%; /* 모바일 화면에 더 가운데 정렬 */
     font-size: 2.0rem;
   }
 
   #content {
-    margin-left: 25%; /* 모바일 화면에 더 가운데 정렬 */
-    margin-right: 25%; /* 모바일 화면에 더 가운데 정렬 */
+    margin-left: 20%; /* 모바일 화면에 더 가운데 정렬 */
+    margin-right: 20%; /* 모바일 화면에 더 가운데 정렬 */
   }
 }
 @media screen and (max-width:1023px) {
