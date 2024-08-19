@@ -18,8 +18,8 @@
   }
 
   #content {
-    margin-left: 25%; /* 모바일 화면에 더 가운데 정렬 */
-    margin-right: 25%; /* 모바일 화면에 더 가운데 정렬 */
+    margin-left: 20%; /* 모바일 화면에 더 가운데 정렬 */
+    margin-right: 20%; /* 모바일 화면에 더 가운데 정렬 */
     white-space: nowrap;
   }
 }
@@ -103,11 +103,11 @@
  }
  
  #nav-items {
-   padding-left: 1rem;
+   padding-left: 0.5rem;
  }
  
  #nav-item {
-   margin-left: 1rem;
+   margin-left: 0.5rem;
  }
  
  /* #content {
