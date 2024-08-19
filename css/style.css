@@ -14,11 +14,13 @@
     margin-left: 25%; /* 모바일 화면에 더 가운데 정렬 */
     margin-right: 25%; /* 모바일 화면에 더 가운데 정렬 */
     font-size: 2.0rem;
+    white-space: nowrap;
   }
 
   #content {
     margin-left: 25%; /* 모바일 화면에 더 가운데 정렬 */
     margin-right: 25%; /* 모바일 화면에 더 가운데 정렬 */
+    white-space: nowrap;
   }
 }
 @media screen and (max-width:1023px) {
@@ -27,10 +29,12 @@
     margin-left: 15%; /* 모바일 화면에 더 가운데 정렬 */
     margin-right: 15%; /* 모바일 화면에 더 가운데 정렬 */
     font-size: 2.3rem;
+    white-space: nowrap;
   }
   #content {
     margin-left: 15%; /* 모바일 화면에 더 가운데 정렬 */
     margin-right: 15%; /* 모바일 화면에 더 가운데 정렬 */
+    white-space: nowrap;
   }
 }
 @media screen and (max-width:767px) {
@@ -39,10 +43,12 @@
     margin-left: 10%; /* 모바일 화면에 더 가운데 정렬 */
     margin-right: 10%; /* 모바일 화면에 더 가운데 정렬 */
     font-size: 2.6rem;
+    white-space: nowrap;
   }
   #content {
     margin-left: 10%; /* 모바일 화면에 더 가운데 정렬 */
     margin-right: 10%; /* 모바일 화면에 더 가운데 정렬 */
+    white-space: nowrap;
   }
 }
 
