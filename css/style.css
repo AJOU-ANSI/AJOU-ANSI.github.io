@@ -18,8 +18,8 @@
   }
 
   #content {
-    margin-left: 20%; /* 모바일 화면에 더 가운데 정렬 */
-    margin-right: 20%; /* 모바일 화면에 더 가운데 정렬 */
+    margin-left: 25%; /* 모바일 화면에 더 가운데 정렬 */
+    margin-right: 25%; /* 모바일 화면에 더 가운데 정렬 */
     white-space: nowrap;
   }
 }
