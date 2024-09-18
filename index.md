@@ -5,6 +5,11 @@ title:  공지사항
 
 
 ### {{ page.title }}
+- 2024-09-18
+  - 2024 한국 대학생 프로그래밍 경시대회(ICPC)의 참가 신청을 받기 시작했습니다.(~9/24)
+    - [대회 정보](https://icpckorea.org/)
+    - [팀 신청](https://forms.gle/uLhb3ZuhZUyQsSZKA)
+    - [개인 신청](https://forms.gle/GJKvines7oLdzFFL9) - ANSI 내부에서 팀을 결성합니다.
 - 2024-09-11
   - 2학기 ANSI의 개강총회가 열렀습니다.
   - [링크](https://drive.google.com/file/d/149xbSq1DXWDUi2qQfc8Z5SYx4g6ew_ws/view?usp=sharing)에서 개강총회 진행 자료를 확인할 수 있습니다.
