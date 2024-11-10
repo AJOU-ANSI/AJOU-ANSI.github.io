@@ -5,14 +5,22 @@ title:  공지사항
 
 
 ### {{ page.title }}
+- 2024-11-10
+  - 11월 16일 토요일에 ANSI의 홈커밍 데이가 열립니다!\\
+    홈커밍데이는 A.N.S.I. 재학생과 졸업생 선배님들이 함께 모여 소중한 경험을 나누고 소통할 수 있는 자리입니다. 
+    - 11월 16일(토) 16시, 팔달관 309호
+    - [재학생 참가 신청](https://forms.gle/zAmpuV4nDwBi7S7G6)에서 신청할 수 있습니다.(~11/13)
+- 2024-10-26
+  - [2024 한국 대학생 프로그래밍 경시대회(ICPC)](https://icpckorea.org/)의 교내 예선이 마무리되었습니다.\\
+  팀 *MeatInTheMiddle*의 본선 진출을 축하합니다.
 - 2024-09-18
   - [2024 한국 대학생 프로그래밍 경시대회(ICPC)](https://icpckorea.org/)의 참가 신청을 받기 시작했습니다.(~~\~9/24~~ ~~~9/25~~ ~10/1)
     - ICPC는 International Collegiate Programming Contest의 약자로 매년 전세계 대학생들이 참가하여 실력을 겨루는 국제 컴퓨터 프로그래밍 대회입니다.\\
     3인 1팀으로 구성된 팀들은 제한시간 내 얼마나 많은 문제를 해결하는가를 놓고 경쟁하게 됩니다.
     - 교내 예선에서 좋은 성적을 거둔 팀을 대상으로 SW융합교육원에서 상금을 시상합니다.\\
       상격은 대상(1,000,000원), 최우수상(700,000원), 우수상(500,000원)입니다. *적격자가 없을 경우, 시상하지 않을 수 있습니다.
-    - [팀 신청](https://forms.gle/uLhb3ZuhZUyQsSZKA)
-    - [개인 신청](https://forms.gle/GJKvines7oLdzFFL9) - ANSI 내부에서 팀을 결성합니다.
+    - ~~[팀 신청](https://forms.gle/uLhb3ZuhZUyQsSZKA)~~
+    - ~~[개인 신청](https://forms.gle/GJKvines7oLdzFFL9) - ANSI 내부에서 팀을 결성합니다.~~
 - 2024-09-11
   - 2학기 ANSI의 개강총회가 열렀습니다.
   - [링크](https://drive.google.com/file/d/149xbSq1DXWDUi2qQfc8Z5SYx4g6ew_ws/view?usp=sharing)에서 개강총회 진행 자료를 확인할 수 있습니다.
