@@ -6,6 +6,25 @@ title:  기록
 ### {{ page.title }}
 
 - 2024
+  - ICPC
+    - MeatInTheMiddle
+    - UuUuMagneWrick
+    - Amolang
+    - TernaryNinjas
+    - RuntimeTerror
+    - PSJungsangwha
+    - HmmJjup
+    - VonNewbiemann
+    - 3solveplz
+    - GochuBasasac
+    - JunJae
+    - WCDI
+    - luvarrowcoding
+    - TeamLee
+    - Aimforsol3
+    - DestroyICPC
+    - dosomething
+    - Strangers
   - UCPC
     - 세상에 나쁜 알고리즘은 없다
     - 이헌우팬클럽
