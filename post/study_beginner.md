@@ -41,9 +41,9 @@ title:  2024년 기초 알고리즘 스터디
     [강의 자료1](https://drive.google.com/file/d/1Ax-CMALk4VicpOTqD51l78PYtK3_hNjz/view?usp=sharing)    [강의 자료2](https://drive.google.com/file/d/1HjCRpsoG_oKV2M44KkN3WyuPgBKUadub/view?usp=sharing)
 - 8주차 : BST, Heap, 우선순위 큐
 
-    BST와 BBST, Heap의 구현, STL의 우선순위 큐
+    BST와 BBST, Heap의 구현, STL의 우선순위 큐, 분리집합(++)
 
-    [강의 자료](https://drive.google.com/file/d/1E88R4EuUDoD3DaSQPGu_p-6KmFgfCiPc/view?usp=sharing)
+    [강의 자료](https://drive.google.com/file/d/1E88R4EuUDoD3DaSQPGu_p-6KmFgfCiPc/view?usp=sharing)    [강의자료++](https://drive.google.com/file/d/1xMPOYv-L9BObweaJ7bSfpzA8jLD3I7E0/view?usp=sharing)
 - 9주차 : 최단 거리 알고리즘
 
     다익스트라, 벨만-포드, 플로이드-와셜
