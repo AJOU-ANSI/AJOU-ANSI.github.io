@@ -5,6 +5,9 @@ title:  공지사항
 
 
 ### {{ page.title }}
+- 2024-12-20
+  - 2학기 종강 총회가 열렸습니다.
+  - [링크](https://drive.google.com/file/d/1xxhI8-WEzcUWQ2f7J5HItf3HlwOEDvkl/view?usp=sharing)에서 종강총회 진행 자료를 확인할 수 있습니다.
 - 2024-12-02
   - 기초 알고리즘 스터디가 종강하였습니다. 한 학기동안 수고하셨습니다.
 - 2024-12-02
