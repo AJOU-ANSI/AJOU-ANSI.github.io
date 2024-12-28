@@ -5,6 +5,9 @@ title:  공지사항
 
 
 ### {{ page.title }}
+- 2024-12-28
+  - 2024 APC - Extra 대회가 성공적으로 마무리되었습니다.
+  - [개회식 링크](https://drive.google.com/file/d/1eA9FuzLNctUexG6IV7X2LNIM8JzKGou0/view?usp=sharing), [폐회식 링크](https://drive.google.com/file/d/1XlJRZa8oThIRwE2IOJ8VmUrUHIWi79CA/view?usp=sharing)에서 발표자료를 확인하실 수 있습니다.
 - 2024-12-20
   - 2학기 종강 총회가 열렸습니다.
   - [링크](https://drive.google.com/file/d/1xxhI8-WEzcUWQ2f7J5HItf3HlwOEDvkl/view?usp=sharing)에서 종강총회 진행 자료를 확인할 수 있습니다.
@@ -39,7 +42,7 @@ title:  공지사항
     - ~~[개인 신청](https://forms.gle/GJKvines7oLdzFFL9) - ANSI 내부에서 팀을 결성합니다.~~
 - 2024-09-11
   - 2학기 ANSI의 개강총회가 열렀습니다.
-  - [링크](https://drive.google.com/file/d/149xbSq1DXWDUi2qQfc8Z5SYx4g6ew_ws/view?usp=sharing)에서 개강총회 진행 자료를 확인할 수 있습니다.
+  - [링크](https://drive.google.com/file/d/1G0i0HnEJzBPWN6FY6C9H84-ji2h0JMUd/view?usp=sharing)에서 개강총회 진행 자료를 확인할 수 있습니다.
 - 2024-08-07
   - ANSI의 2학기 회원 모집을 시작하였습니다.
   - ~~[링크](https://forms.gle/eDLuKhkbTKCNTrU77)에서 설문 작성하시면 됩니다.~~ 마감되었습니다.
