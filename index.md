@@ -5,6 +5,11 @@ title:  공지사항
 
 
 ### {{ page.title }}
+- 2025-01-25
+  - 겨울방학 코딩캠프가 마무리되었습니다.
+- 2025-01-11
+  - 2024 경인지역 대학 연합 프로그래밍 경시대회 shake!가 마무리되었습니다.
+  - [링크](https://www.acmicpc.net/category/1078)에서 대회 문제를 풀어보실 수 있고, [링크](https://www.acmicpc.net/board/view/154753)에서 문제지와 에디토리얼을 확인하실 수 있습니다.
 - 2024-12-28
   - 2024 APC - Extra 대회가 성공적으로 마무리되었습니다.
   - [개회식 링크](https://drive.google.com/file/d/1eA9FuzLNctUexG6IV7X2LNIM8JzKGou0/view?usp=sharing), [폐회식 링크](https://drive.google.com/file/d/1XlJRZa8oThIRwE2IOJ8VmUrUHIWi79CA/view?usp=sharing)에서 발표자료를 확인하실 수 있습니다.
