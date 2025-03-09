@@ -5,6 +5,15 @@ title:  공지사항
 
 
 ### {{ page.title }}
+- 2025-02-18
+  - ANSI의 2025-1학기 회원 모집을 시작하였습니다.
+  - [링크](https://forms.gle/BNqBxiqaof5KLmgh9)에서 설문 작성하시면 됩니다.
+  - 회원 모집은 상시로 받고있으니, 부담 없이 문의해주세요!
+    - 회비 : 학기 당 10,000원
+    - 문의 : 회장 신현재 / [010-8329-2858](tel:010-8329-2858) / [ansi.ajou@gmail.com](mailto:ansi.ajou@gmail.com)
+  <p align="center">
+    <img width="80%" src="./post/files/25-1.png">
+  </p>
 - 2025-01-25
   - 겨울방학 코딩캠프가 마무리되었습니다.
 - 2025-01-11
