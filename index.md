@@ -5,6 +5,9 @@ title:  공지사항
 
 
 ### {{ page.title }}
+- 2025-03-12
+  - 2025-1 개강 총회가 열렸습니다.
+  - [링크](https://drive.google.com/file/d/1XmVTDE2XVnG-bCTioirsGPyUDdqMjUHS/view?usp=sharing)에서 개강총회 자료를 확인할 수 있습니다.
 - 2025-02-18
   - ANSI의 2025-1학기 회원 모집을 시작하였습니다.
   - [링크](https://forms.gle/BNqBxiqaof5KLmgh9)에서 설문 작성하시면 됩니다.
