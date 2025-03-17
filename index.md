@@ -5,6 +5,8 @@ title:  공지사항
 
 
 ### {{ page.title }}
+- 2025-03-17
+  - [심화 알고리즘 스터디](/post/study_hard-2025)가 개강하였습니다.
 - 2025-03-12
   - 2025-1 개강 총회가 열렸습니다.
   - [링크](https://drive.google.com/file/d/1XmVTDE2XVnG-bCTioirsGPyUDdqMjUHS/view?usp=sharing)에서 개강총회 자료를 확인할 수 있습니다.
@@ -79,11 +81,11 @@ title:  공지사항
 - 2024-05-07
   - [APC](https://shake.codes/apc)의 참가 신청을 받기 시작하였습니다.
 - 2024-03-22
-  - [심화 알고리즘 스터디](/post/study_hard)가 개강하였습니다.
+  - [심화 알고리즘 스터디](/post/study_hard-2024)가 개강하였습니다.
 - 2024-03-19
-  - [C언어 스터디](/post/study_c)가 개강하였습니다.
+  - [C언어 스터디](/post/study_c-2024)가 개강하였습니다.
 - 2024-03-18
-  - 재밌는 [기초 알고리즘 스터디](/post/study_beginner)가 개강하였습니다.
+  - 재밌는 [기초 알고리즘 스터디](/post/study_beginner-2024)가 개강하였습니다.
   - 많은 관심 부탁드립니다!
 - 2024-03-14
   - 화이트데이 대신 ANSI의 개총이 열렸습니다.
