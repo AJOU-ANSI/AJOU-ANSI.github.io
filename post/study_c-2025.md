@@ -15,5 +15,4 @@ title:  2025년 C언어 스터디
 
   연산자, 형변환, 문제풀이, 조건문
 
-  [강의 자료 1](https://drive.google.com/file/d/1QVrcnHoxdvuctfAJPGermIQXzQ0OW4dd/view?usp=sharing)
-  [강의 자료 2](https://drive.google.com/file/d/1YzqYTyOVN7PrN7tzqx1Zpqw8WiLSDQkd/view)
+  [강의 자료 1](https://drive.google.com/file/d/1QVrcnHoxdvuctfAJPGermIQXzQ0OW4dd/view?usp=sharing)    [강의 자료 2](https://drive.google.com/file/d/1YzqYTyOVN7PrN7tzqx1Zpqw8WiLSDQkd/view)
