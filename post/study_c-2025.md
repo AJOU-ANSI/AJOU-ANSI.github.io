@@ -13,6 +13,7 @@ title:  2025년 C언어 스터디
 
   변수와 자료형, 변수의 선언, 출력과 입력 심화
 
-  연산자, 형변환, 문제풀이
+  연산자, 형변환, 문제풀이, 조건문
 
-  [강의 자료](https://drive.google.com/file/d/1QVrcnHoxdvuctfAJPGermIQXzQ0OW4dd/view?usp=sharing)
+  [강의 자료 1](https://drive.google.com/file/d/1QVrcnHoxdvuctfAJPGermIQXzQ0OW4dd/view?usp=sharing)
+  [강의 자료 2](https://drive.google.com/file/d/1YzqYTyOVN7PrN7tzqx1Zpqw8WiLSDQkd/view)
