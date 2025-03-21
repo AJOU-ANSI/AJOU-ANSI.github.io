@@ -10,7 +10,7 @@ title:  공지사항
 - 2025-03-18
   - [기초 알고리즘 스터디](/post/study_beginner-2025)가 개강하였습니다.
 - 2025-03-17
-  - [심화 알고리즘 스터디](/post/study_hard-2025)가 개강하였습니다.
+  - [중급 알고리즘 스터디](/post/study_middle-2025)가 개강하였습니다.
 - 2025-03-12
   - 2025-1 개강 총회가 열렸습니다.
   - [링크](https://drive.google.com/file/d/1XmVTDE2XVnG-bCTioirsGPyUDdqMjUHS/view?usp=sharing)에서 개강총회 자료를 확인할 수 있습니다.
