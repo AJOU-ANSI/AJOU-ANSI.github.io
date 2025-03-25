@@ -21,4 +21,4 @@ title:  2025년 C언어 스터디
 
 - 2-1주차 : 반복문
 
- [강의 자료](https://drive.google.com/file/d/1GZZefx2TXa9lXEr_3_8F1icDRWl8W_68/view?usp=sharing)
+  [강의 자료](https://drive.google.com/file/d/1GZZefx2TXa9lXEr_3_8F1icDRWl8W_68/view?usp=sharing)
