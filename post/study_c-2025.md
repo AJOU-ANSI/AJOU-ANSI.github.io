@@ -18,3 +18,7 @@ title:  2025년 C언어 스터디
   [강의 자료 1](https://drive.google.com/file/d/1QVrcnHoxdvuctfAJPGermIQXzQ0OW4dd/view?usp=sharing)
 
   [강의 자료 2](https://drive.google.com/file/d/1YzqYTyOVN7PrN7tzqx1Zpqw8WiLSDQkd/view)
+
+- 2-1주차 : 반복문
+
+ [강의 자료](https://drive.google.com/file/d/1GZZefx2TXa9lXEr_3_8F1icDRWl8W_68/view?usp=sharing)
