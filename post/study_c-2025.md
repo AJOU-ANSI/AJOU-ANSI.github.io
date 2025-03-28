@@ -27,7 +27,9 @@ title:  2025년 C언어 스터디
 
   - 2-2주차 : 배열과 포인터
 
-  배열, 포인터
+  배열, 이차원 배열, 포인터
 
   [강의 자료](https://drive.google.com/file/d/1Ym1vDpsq2VeWI_FPUuOyU-EfPp8tMXmy/view?usp=sharing)
+  
+  [강의 자료](https://drive.google.com/file/d/1FFATTaWvRLhNVnSzvTMuVwX3d-kvHnB4/view?usp=sharing)
 
