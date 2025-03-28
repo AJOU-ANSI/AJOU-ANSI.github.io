@@ -24,3 +24,10 @@ title:  2025년 C언어 스터디
   조건문, 반복문
 
   [강의 자료](https://drive.google.com/file/d/1GZZefx2TXa9lXEr_3_8F1icDRWl8W_68/view?usp=sharing)
+
+  - 2-2주차 : 배열과 포인터
+
+  배열, 포인터
+
+  [강의 자료](https://drive.google.com/file/d/1Ym1vDpsq2VeWI_FPUuOyU-EfPp8tMXmy/view?usp=sharing)
+
