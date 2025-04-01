@@ -37,7 +37,9 @@ title:  2025년 C언어 스터디
  
   문자열, 2차원 배열, 포인터, 반복문
 
-  [강의 자료 1](https://drive.google.com/file/d/1FFATTaWvRLhNVnSzvTMuVwX3d-kvHnB4/view?usp=sharing)
 
-  [강의 자료 2](https://drive.google.com/file/d/194Gwk6kFAAe7IapctBoiHT_JgxNc2zpN/view?usp=sharing)
+  [강의 자료 1](https://drive.google.com/file/d/194Gwk6kFAAe7IapctBoiHT_JgxNc2zpN/view?usp=sharing)
+  
+  [강의 자료 2](https://drive.google.com/file/d/1FFATTaWvRLhNVnSzvTMuVwX3d-kvHnB4/view?usp=sharing)
+
 
