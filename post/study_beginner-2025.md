@@ -15,8 +15,8 @@ title:  2025년 기초 알고리즘 스터디
 
   [강의 자료](https://drive.google.com/file/d/1b9RC0XI24kySPQTkjT9UsntkXowru3ea/view?usp=sharing)
 
-  - 3주차 : 완전탐색과 백트래킹
+- 3주차 : 완전탐색과 백트래킹
 
-    완전 탐색(Bruteforcing), 재귀(Recursion), 백트래킹(Backtracking)
+  완전 탐색(Bruteforcing), 재귀(Recursion), 백트래킹(Backtracking)
 
-    [강의 자료](https://drive.google.com/file/d/1L4MPGq1jhgPyMGlm-TYEHetOLWbvG7p2/view?usp=sharing)
+  [강의 자료](https://drive.google.com/file/d/1L4MPGq1jhgPyMGlm-TYEHetOLWbvG7p2/view?usp=sharing)
