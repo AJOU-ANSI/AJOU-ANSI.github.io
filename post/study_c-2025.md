@@ -25,7 +25,7 @@ title:  2025년 C언어 스터디
 
   [강의 자료](https://drive.google.com/file/d/1GZZefx2TXa9lXEr_3_8F1icDRWl8W_68/view?usp=sharing)
 
-  - 2-2주차 : 배열과 포인터
+- 2-2주차 : 배열과 포인터
 
   배열, 이차원 배열, 포인터
 
@@ -33,10 +33,11 @@ title:  2025년 C언어 스터디
   
   [강의 자료 2](https://drive.google.com/file/d/1FFATTaWvRLhNVnSzvTMuVwX3d-kvHnB4/view?usp=sharing)
 
-  - 3-1주차: 2차원 배열과 포인터
+- 3-1주차: 2차원 배열과 포인터
  
-    2차원 배열, 포인터, 반복문
+  2차원 배열, 포인터, 반복문
 
-    [강의 자료 1](https://drive.google.com/file/d/1FFATTaWvRLhNVnSzvTMuVwX3d-kvHnB4/view?usp=sharing)
-    [강의 자료 2](https://drive.google.com/drive/folders/18EcFI64JKHSqK5PIYYeppd0SZlVk-ryz?hl=ko)
+  [강의 자료 1](https://drive.google.com/file/d/1FFATTaWvRLhNVnSzvTMuVwX3d-kvHnB4/view?usp=sharing)
+
+  [강의 자료 2](https://drive.google.com/drive/folders/18EcFI64JKHSqK5PIYYeppd0SZlVk-ryz?hl=ko)
 
