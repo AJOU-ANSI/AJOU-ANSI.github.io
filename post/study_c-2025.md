@@ -48,8 +48,9 @@ title:  2025년 C언어 스터디
  
   포인터, 함수, 문제 풀이
 
-  [강의 자료 1](https://drive.google.com/file/d/192GfT_i0TTh82exUF4WtyWM7SN42Igs8/view?usp=sharing)
+  [강의 자료 1](https://drive.google.com/file/d/1PH6GCS6i0u5qIT0g_ytNFsAJZ2L56DWZ/view?usp=sharing)
 
-  [강의 자료 2](https://drive.google.com/file/d/1PH6GCS6i0u5qIT0g_ytNFsAJZ2L56DWZ/view?usp=sharing)
+  [강의 자료 2](https://drive.google.com/file/d/192GfT_i0TTh82exUF4WtyWM7SN42Igs8/view?usp=sharing)
+
 
 
