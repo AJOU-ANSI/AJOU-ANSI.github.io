@@ -19,4 +19,4 @@ title:  2025년 기초 알고리즘 스터디
 
   완전 탐색(Bruteforcing), 재귀(Recursion), 백트래킹(Backtracking)
 
-  [강의 자료](https://drive.google.com/file/d/1L4MPGq1jhgPyMGlm-TYEHetOLWbvG7p2/view?usp=sharing)
+  [강의 자료](https://drive.google.com/file/d/197xzlzsTVqVQNjyF9LE-Ot1jV0wgh5aZ/view?usp=sharing)
