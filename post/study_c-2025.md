@@ -52,5 +52,9 @@ title:  2025년 C언어 스터디
 
   [강의 자료 2](https://drive.google.com/file/d/192GfT_i0TTh82exUF4WtyWM7SN42Igs8/view?usp=sharing)
 
+- 4-1주차: 문제풀
+
+  [백준 링크](https://www.acmicpc.net/group/practice/view/22904/28)
+
 
 
