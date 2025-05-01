@@ -29,3 +29,10 @@ title:  2025년 기초 알고리즘 스터디
 
   [강의 자료 1](https://drive.google.com/file/d/1nb2UhXTUQlZ6jjUciL8CVy-khp0QvOQ8/view?usp=sharing)
   [강의 자료 2](https://drive.google.com/file/d/10MAIuD2VpNQ_TFH85k9Z9P3SY0XJRBTt/view?usp=sharing)
+
+- 5주차 : 그래프
+
+  그래프의 종류, 그래프의 표현 방법, DFS, BFS, 트리
+
+  [강의 자료 1](https://drive.google.com/file/d/1UQs-yyMhlBuAsKwAYkqNU0srSGibTkwW/view?usp=sharing)
+  [강의 자료 2](https://drive.google.com/file/d/1vKwI2UVlnRRCPygjJUWLJMVEKkwcDnn4/view?usp=sharing)
