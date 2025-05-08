@@ -36,3 +36,9 @@ title:  2025년 기초 알고리즘 스터디
 
   [강의 자료 1](https://drive.google.com/file/d/1UQs-yyMhlBuAsKwAYkqNU0srSGibTkwW/view?usp=sharing)
   [강의 자료 2](https://drive.google.com/file/d/1vKwI2UVlnRRCPygjJUWLJMVEKkwcDnn4/view?usp=sharing)
+
+- 6주차 : 동적 계획법
+
+  가장 긴 증가하는 부분 수열(LIS), 가장 긴 공통 부분 문자열 (LCS), 배낭 문제
+
+  [강의 자료](https://drive.google.com/file/d/1CVmaD9Ukt44OkIlXYTrOQ12qlzBWBlqm/view?usp=drive_link)
