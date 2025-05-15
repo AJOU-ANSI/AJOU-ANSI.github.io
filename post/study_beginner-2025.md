@@ -42,3 +42,9 @@ title:  2025년 기초 알고리즘 스터디
   가장 긴 증가하는 부분 수열(LIS), 가장 긴 공통 부분 문자열 (LCS), 배낭 문제
 
   [강의 자료](https://drive.google.com/file/d/1CVmaD9Ukt44OkIlXYTrOQ12qlzBWBlqm/view?usp=drive_link)
+
+- 7주차 : 그리디, 애드혹
+
+  그리디, 최적 부분 구조, 그리디의 증명, 애드혹
+
+  [강의 자료1](https://drive.google.com/file/d/1RfsNi_wvzfOFXz3cfSDw7oktTXONUQDZ/view?usp=sharing)    [강의 자료2](https://drive.google.com/file/d/1Jvp1HK5hbYUxb3Kf_ltt8V1_aguLKxaN/view?usp=sharing)
