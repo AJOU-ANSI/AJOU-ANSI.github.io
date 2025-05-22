@@ -47,4 +47,11 @@ title:  2025년 기초 알고리즘 스터디
 
   그리디, 최적 부분 구조, 그리디의 증명, 애드혹
 
-  [강의 자료1](https://drive.google.com/file/d/1RfsNi_wvzfOFXz3cfSDw7oktTXONUQDZ/view?usp=sharing)    [강의 자료2](https://drive.google.com/file/d/1Jvp1HK5hbYUxb3Kf_ltt8V1_aguLKxaN/view?usp=sharing)
+  [강의 자료 1](https://drive.google.com/file/d/1RfsNi_wvzfOFXz3cfSDw7oktTXONUQDZ/view?usp=sharing)    [강의 자료 2](https://drive.google.com/file/d/1Jvp1HK5hbYUxb3Kf_ltt8V1_aguLKxaN/view?usp=sharing)
+
+- 8주차 : BST, heap, disjoint set
+
+  BST, heap, disjoint set(union-find)의 개념과 구현 소개, 연습문제 풀이
+
+  [강의 자료 1](https://drive.google.com/file/d/1Mw51iob5qc34XHxij_ZREps6BDZJbNt8/view?usp=sharing)
+  [강의 자료 2](https://drive.google.com/file/d/1j3eoeZ0-FmAW4J53ncYPC1wfuir0xmui/view?usp=sharing)
