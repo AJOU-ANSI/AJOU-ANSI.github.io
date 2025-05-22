@@ -53,5 +53,4 @@ title:  2025년 기초 알고리즘 스터디
 
   BST, heap, disjoint set(union-find)의 개념과 구현 소개, 연습문제 풀이
 
-  [강의 자료 1](https://drive.google.com/file/d/1Mw51iob5qc34XHxij_ZREps6BDZJbNt8/view?usp=sharing)
-  [강의 자료 2](https://drive.google.com/file/d/1j3eoeZ0-FmAW4J53ncYPC1wfuir0xmui/view?usp=sharing)
+  [강의 자료](https://drive.google.com/file/d/1Mw51iob5qc34XHxij_ZREps6BDZJbNt8/view?usp=sharing)
