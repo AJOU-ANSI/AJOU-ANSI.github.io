@@ -54,3 +54,9 @@ title:  2025년 기초 알고리즘 스터디
   BST, heap, disjoint set(union-find)의 개념과 구현 소개, 연습문제 풀이
 
   [강의 자료](https://drive.google.com/file/d/1Mw51iob5qc34XHxij_ZREps6BDZJbNt8/view?usp=sharing)
+
+- 9주차 : 최단 경로 알고리즘
+
+  다익스트라, 벨만-포드, 플로이드-와셜의 개념과 구현 소개, 연습 문제 풀이
+
+  [강의 자료](https://drive.google.com/file/d/1Zr4APdEpFUZQ7ZQEVyIwkAEBmFMKj7yt/view?usp=sharing)
