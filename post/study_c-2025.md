@@ -72,3 +72,7 @@ title:  2025년 C언어 스터디
 
   [강의 자료](https://drive.google.com/file/d/1I7WpzerZSltAT8PIOOxJmFADSTIY_QaY/view?usp=sharing)
 
+- 7-1주차: 링크드 리스트
+
+- [강의 자료](https://drive.google.com/file/d/18peZ2Gd1AZ3G4rQky4og64_T37VM8Uxl/view?usp=sharing)
+
