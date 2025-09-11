@@ -5,6 +5,18 @@ title:  공지사항
 
 
 ### {{ page.title }}
+- 2025-09-11
+  - [2025 한국 대학생 프로그래밍 경시대회(ICPC)](https://icpckorea.org/)의 참가 신청을 받기 시작했습니다.(~9/23)
+    - ICPC는 International Collegiate Programming Contest의 약자로 매년 전세계 대학생들이 참가하여 실력을 겨루는 국제 컴퓨터 프로그래밍 대회입니다.\\
+    3인 1팀으로 구성된 팀들은 제한시간 내 얼마나 많은 문제를 해결하는가를 놓고 경쟁하게 됩니다.
+    - [팀 신청](https://forms.gle/GmBJgYAHSgLdxwRS6)
+    - [개인 신청](https://forms.gle/WDtADmXxc5Fdbzc1A) - ANSI 내부에서 팀을 결성합니다.
+- 2025-9-09
+  - 2학기 개강 총회가 열렸습니다.
+  - [링크](https://drive.google.com/file/d/1Py9I_BBvdcBIrtPjeLEGfNuYDIlDdzf_/view?usp=sharing)에서 개강총회 진행 자료를 확인할 수 있습니다.
+- 2025-6-23
+  - 1학기 종강 총회가 열렸습니다.
+  - [링크](https://drive.google.com/file/d/1auA8DPZEFuxOUzRMZz-hD7BQZUNriz1t/view?usp=sharing)에서 종강총회 진행 자료를 확인할 수 있습니다.
 - 2025-05-02
   - [APC](https://shake.codes/apc) 참가 신청을 받기 시작했습니다. 많은 관심 부탁드립니다. 
 - 2025-03-23
