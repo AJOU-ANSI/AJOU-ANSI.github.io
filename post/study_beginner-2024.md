@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  2024년 기초 알고리즘 스터디
+title:  2024년 기초 알고리즘 스터디 - 1, 2학기
 ---
 ### {{ page.title }}
 
