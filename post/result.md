@@ -5,6 +5,17 @@ title:  기록
 
 ### {{ page.title }}
 
+- 2025
+  - ICPC
+    - HwangGyoseon, 본선 진출
+    - noMoneyToCysunn
+    - 2to5
+    - WaterPlatinum
+    - EturnalReturn
+  - shake!
+    - 박경률, 장려상
+    - 염수인, 장려상
+  
 - 2024
   - ICPC
     - MeatInTheMiddle
