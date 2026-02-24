@@ -5,6 +5,12 @@ title:  공지사항
 
 
 ### {{ page.title }}
+- 2026-02-24
+  - A.N.S.I.의 2026-1학기 회원 모집을 시작하였습니다.
+  - [링크](https://forms.gle/yoYJ9ctE5zZypZcK7)에서 자세한 사항을 참고해주세요.
+  - 회원 모집은 상시로 받고 있으니, 많은 관심 부탁드립니다!
+    - 회비: 학기 당 15,000원
+    - 문의: 회장 이예고운 / [010-4261-2212](tel:010-4261-2212) / [ansi.ajou@gmail.com](mailto:ansi.ajou@gmail.com)
 - 2025-09-11
   - [2025 한국 대학생 프로그래밍 경시대회(ICPC)](https://icpckorea.org/)의 참가 신청을 받기 시작했습니다.(~9/23)
     - ICPC는 International Collegiate Programming Contest의 약자로 매년 전세계 대학생들이 참가하여 실력을 겨루는 국제 컴퓨터 프로그래밍 대회입니다.\\
