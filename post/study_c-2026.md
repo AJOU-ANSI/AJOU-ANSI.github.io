@@ -19,3 +19,11 @@ title:  2026년 C언어 스터디
   함수 선언/정의/호출, 매개변수/반환
 
   [강의 자료](https://drive.google.com/file/d/1CxWGIJh6DwuECd-d3XDWf6uq1DC62-UV/view?usp=sharing)
+
+- 3주차 : 배열과 문자열
+
+  1차원 배열(1D), 2차원 배열(2D)
+
+  문자열, 문자열 관련 함수
+
+  [강의 자료](https://drive.google.com/file/d/1qceXpeKON5qiI0orKorrvHT7ybcFyYap/view?usp=sharing)
