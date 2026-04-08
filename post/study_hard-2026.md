@@ -18,9 +18,9 @@ title:  2026년 심화 알고리즘 스터디
   
     [Appendix - Bitwise Operations Cheat Sheet](https://codeforces.com/blog/entry/94470)
 
-- 3주차: Bitmasking, Bit DP
+- 3주차: Ternary Search, Monotonic Queue
 
-    비트마스킹, 비트 dp
+    삼분 탐색, 모노톤 큐
 
     [강의 노트](https://drive.google.com/file/d/1CVPMwvI3fx_4ZaSkxLzVTS-94_aUzidr/view?usp=sharing)
 
