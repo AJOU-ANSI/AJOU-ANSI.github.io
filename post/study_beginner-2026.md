@@ -25,10 +25,10 @@ title:  2026년 기초 알고리즘 스터디
 
   스택, 큐, 덱, 집합과 맵
   
-  좌표 압축, 투 포인터, 슬라이딩 윈도우, 우선순위 큐
+  좌표 압축, 투 포인터, 슬라이딩 윈도우, 누적합
 
   [강의 자료 1](https://drive.google.com/file/d/1nb2UhXTUQlZ6jjUciL8CVy-khp0QvOQ8/view?usp=sharing)
-  [강의 자료 2](https://drive.google.com/file/d/10MAIuD2VpNQ_TFH85k9Z9P3SY0XJRBTt/view?usp=sharing)
+  [강의 자료 2](https://drive.google.com/file/d/12bKnN0ivM4HUtFUw-BICKEc8gNLVBHJK/view?usp=sharing)
 
 - 5주차 : 그래프
 
