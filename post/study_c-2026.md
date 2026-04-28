@@ -27,3 +27,12 @@ title:  2026년 C언어 스터디
   문자열, 문자열 관련 함수
 
   [강의 자료](https://drive.google.com/file/d/1qceXpeKON5qiI0orKorrvHT7ybcFyYap/view?usp=sharing)
+
+- 4주차 : 시험기간 (휴강)
+
+- 5주차 : 재귀함수 및 포인터
+
+  재귀함수, 포인터 기초 및 심화
+
+  [강의 자료](https://drive.google.com/file/d/1Bf6mtV-1y3L2xW0rNQg4FfUJlBbNzfPJ/view?usp=drive_link)
+  
