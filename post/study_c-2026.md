@@ -35,4 +35,9 @@ title:  2026년 C언어 스터디
   재귀함수, 포인터 기초 및 심화
 
   [강의 자료](https://drive.google.com/file/d/1Bf6mtV-1y3L2xW0rNQg4FfUJlBbNzfPJ/view?usp=drive_link)
-  
+
+- 6주차 : 동적 메모리와 구조체
+
+  동적 메모리(malloc, calloc, realloc), 구조체
+
+  [강의 자료](https://drive.google.com/file/d/10XcWM87HlBbzobYDwh6ZdCKzB_ZWBVOY/view?usp=sharing)
