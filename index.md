@@ -5,6 +5,9 @@ title:  공지사항
 
 
 ### {{ page.title }}
+
+- 2026-04-30
+  - [APC](https://shake.codes/apc) 참가 신청을 받기 시작했습니다. 많은 관심 부탁드립니다.
 - 2026-02-24
   - A.N.S.I.의 2026-1학기 회원 모집을 시작하였습니다.
   - [링크](https://forms.gle/yoYJ9ctE5zZypZcK7)에서 자세한 사항을 참고해주세요.
