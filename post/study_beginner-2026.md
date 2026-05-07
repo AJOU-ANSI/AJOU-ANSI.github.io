@@ -43,6 +43,8 @@ title:  2026년 기초 알고리즘 스터디
 
   [강의 자료](https://drive.google.com/file/d/1CVmaD9Ukt44OkIlXYTrOQ12qlzBWBlqm/view?usp=drive_link)
 
+  [참고 자료](https://drive.google.com/file/d/1aPir3pzQ0skvbSxRdeARjgCkhej_ZZQs/view?usp=sharing)
+
 - 7주차 : 그리디, 애드혹
 
   그리디, 최적 부분 구조, 그리디의 증명, 애드혹
